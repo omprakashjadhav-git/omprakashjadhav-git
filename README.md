@@ -1,4 +1,4 @@
-# Hi, I'm Omprakash Jadhav 👋
+# Hi, I'm Omprakash Jadhav 
 
 ### Aspiring Data Engineer
 
