@@ -6,7 +6,7 @@ I'm a final-year Computer Engineering student focused on Data Engineering and bu
 
 I work with Python, SQL, PySpark, Apache Airflow, dbt, and Databricks to collect, transform, and process data.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:** Python, SQL
 
@@ -16,7 +16,7 @@ I work with Python, SQL, PySpark, Apache Airflow, dbt, and Databricks to collect
 
 **Tools & Platforms:** Databricks, Git, GitHub, VS Code
 
-## 🚀 Featured Project
+##  Featured Project
 
 ### Train Delay Data Engineering Pipeline
 
@@ -24,7 +24,7 @@ An end-to-end Data Engineering project focused on collecting, processing, transf
 
 **Tech Stack:** Python • PySpark • Airflow • dbt • SQL
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 Cloud Data Engineering • Advanced SQL • PySpark • Apache Airflow • dbt
 
